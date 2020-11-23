@@ -1,0 +1,7 @@
+{
+  "name": "mano",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
